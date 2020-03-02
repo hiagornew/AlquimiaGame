@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beecdc6c7e6fa9b4c987ff209af1703c, type: 3}
+  m_Name: Pocaolaranja
+  m_EditorClassIdentifier: 
+  Id: 9
+  name: "Po\xE7\xE3o Laranja"
+  imageItem: {fileID: 21300000, guid: 8f658c349ec76284c90e84b4a5c6e7f1, type: 3}
+  corItem: {r: 0.9528302, g: 0.43517542, b: 0.049439307, a: 1}
+  tipoItem: 0
+  valorVenda: 400
+  qualidadeItem: 10
+  imageMask: {fileID: 0}
+  Descricao: "Descri\xE7\xE3o Po\xE7\xE3o Verde"
