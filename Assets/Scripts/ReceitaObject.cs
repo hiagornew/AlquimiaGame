@@ -9,6 +9,7 @@ public class ReceitaObject : ScriptableObject
     public enum RECEITATYPE { POCAO, PEDRA, RUNA, ERVA };
     public string name;
     public Sprite imageReceita;
+    public Sprite[] imageItensReceita;
     public Color corItem;
     public RECEITATYPE tipoReceita;
     public float valorVenda;
