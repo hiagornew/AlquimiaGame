@@ -18,4 +18,10 @@ public class Item : MonoBehaviour
         image = GetComponent<Image>();
         image.sprite = itemConfig.imageItem;
     }
+
+    public void CarregaInfo()
+    {
+        image = GetComponent<Image>();
+        image.sprite = itemConfig.imageItem;
+    }
 }
